@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "acPZndFJz5krs4QfzP83M8vo9BsBBx+9eS2UEgNlaS/hqo2dggBdUj7bNhi/liLW5eFiwAQT6+yAiyIeMTsFxQ==",
+  "dgSpecHash": "RNYPixEAAr0n1IT4y1msXnaSIklkze57cLCLJmLsOsbDIkecdAJSN6nHLy5MsiF9WISH47j0763Hq1SBCxcAaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Auditeste0348\\Documents\\teste\\TodoApi\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Auditeste0348\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Auditeste0348\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

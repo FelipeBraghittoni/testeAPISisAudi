@@ -9694,11 +9694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\teste\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Auditeste0348\\Documents\\teste\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Auditeste0348\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Auditeste0348\\Documents\\teste\\TodoApi\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Auditeste0348\\AppData\\Roaming\\NuGet\\NuGet.Config",
