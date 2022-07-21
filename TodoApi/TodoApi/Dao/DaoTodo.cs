@@ -13,19 +13,20 @@ namespace TodoApi.Dao
             List<TodoItem> todoitem = new List<TodoItem>();
             using (SqlConnection conn = new SqlConnection(conexao))
             {
-                conn.Open();
+                
                 using (SqlCommand cmd = new SqlCommand("SELECT * FROM TodoItems",conn))
                 {
-                    cmd.CommandType = CommandType.Text;
+                    conn.Open();
                     using (SqlDataReader reader = cmd.ExecuteReader())
                     {
                         if(reader != null)
                         {
                             while (reader.Read())
                             {
+                                Console.Write(reader["IsComplete"].ToString() == IsComplete.True.ToString());
                                 var todoitems = new TodoItem();
                                 todoitems.Name = reader["Name"].ToString();
-                                //todoitems.IsComplete = int.Parse(reader["IsComplete"]);
+                                todoitems.IsComplete = reader["IsComplete"].ToString();
                                 todoitem.Add(todoitems);
                                
                             }
