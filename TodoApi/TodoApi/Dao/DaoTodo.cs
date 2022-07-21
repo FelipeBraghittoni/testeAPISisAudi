@@ -7,7 +7,7 @@ namespace TodoApi.Dao
 {
     public class DaoTodo
     {
-        string conexao = @"Data Source=DESKTOP-HV9333S;Initial Catalog=Todos;Integrated Security=True";
+        string conexao = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Todos;Integrated Security=True";
         public List<TodoItem> GetTodoItems()
         {
             List<TodoItem> todoitem = new List<TodoItem>();
@@ -24,8 +24,8 @@ namespace TodoApi.Dao
                             while (reader.Read())
                             {
                                 var todoitems = new TodoItem();
-                                todoitems.Name = reader["Nome"].ToString();
-                                todoitems.IsComplete = reader["IsComplete"].is;
+                                todoitems.Name = reader["Name"].ToString();
+                                //todoitems.IsComplete = int.Parse(reader["IsComplete"]);
                                 todoitem.Add(todoitems);
                                
                             }
