@@ -9689,19 +9689,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\conta\\.nuget\\packages\\": {}
+    "C:\\Users\\Auditeste0348\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\conta\\OneDrive\\Documentos\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\conta\\OneDrive\\Documentos\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\TodoApi.csproj",
-      "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\conta\\OneDrive\\Documentos\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\obj\\",
+      "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "packagesPath": "C:\\Users\\Auditeste0348\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TodoApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\conta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Auditeste0348\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9774,7 +9774,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
