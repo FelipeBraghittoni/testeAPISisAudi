@@ -7,7 +7,7 @@ namespace TodoApi.Dao
 {
     public class DaoTodo
     {
-        string conexao = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Todos;Integrated Security=True";
+        string conexao = @"Data Source=DESKTOP-HV9333S\Auditeste0348;Initial Catalog=Todos;Integrated Security=True";
         public List<TodoItem> GetTodoItems()
         {
             List<TodoItem> todoitem = new List<TodoItem>();
