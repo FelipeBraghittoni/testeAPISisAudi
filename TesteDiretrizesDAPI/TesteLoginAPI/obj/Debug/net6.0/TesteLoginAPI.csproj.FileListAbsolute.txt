@@ -1,0 +1,7 @@
+C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteLoginAPI\obj\Debug\net6.0\TesteLoginAPI.csproj.AssemblyReference.cache
+C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteLoginAPI\obj\Debug\net6.0\TesteLoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteLoginAPI\obj\Debug\net6.0\TesteLoginAPI.AssemblyInfoInputs.cache
+C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteLoginAPI\obj\Debug\net6.0\TesteLoginAPI.AssemblyInfo.cs
+C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteLoginAPI\obj\Debug\net6.0\TesteLoginAPI.csproj.CoreCompileInputs.cache
+C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteLoginAPI\obj\Debug\net6.0\TesteLoginAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteLoginAPI\obj\Debug\net6.0\TesteLoginAPI.MvcApplicationPartsAssemblyInfo.cache

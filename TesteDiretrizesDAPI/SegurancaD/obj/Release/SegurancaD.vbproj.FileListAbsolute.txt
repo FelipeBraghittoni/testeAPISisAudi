@@ -1,0 +1,13 @@
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\bin\Release\SegurancaD.dll
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\bin\Release\SegurancaD.pdb
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\bin\Release\SegurancaD.xml
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\bin\Release\SegurancaD.tlb
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\bin\Release\adodb.dll
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Release\SegurancaD.vbproj.AssemblyReference.cache
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Release\SegurancaD.Resources.resources
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Release\SegurancaD.vbproj.GenerateResource.cache
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Release\SegurancaD.vbproj.CoreCompileInputs.cache
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Release\SegurancaD.vbproj.CopyComplete
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Release\SegurancaD.dll
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Release\SegurancaD.xml
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Release\SegurancaD.pdb
