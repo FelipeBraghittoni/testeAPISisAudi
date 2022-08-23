@@ -123,10 +123,10 @@ EdbConecta:
         Else
             If vSelec = "" Then
                 dbConectaUsuario = 1014
-                Return ("Erro durante conexão com banco de dados - vSelect vazio")
+                Return 1
             Else
                 RC.Open(vSelec, Db, ADODB.CursorTypeEnum.adOpenDynamic)
-                Return "Sucesso ao abrir tabela"
+                Return 0
             End If
         End If
 

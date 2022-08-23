@@ -99,16 +99,9 @@ namespace TesteDiretrizesDAPI.Controllers
                 //var dbConecta = db.dbConecta(0, 0, "");
 
                 
-                var valor = new SegurancaD.segUsuario();
-                var number = valor.trataSeguranca(10, segUsuario.Usuario, segUsuario.senha);
+                var number = segUsuario.trataSeguranca(10, segUsuario.Usuario, segUsuario.senha);
 
                 return StatusCode(StatusCodes.Status202Accepted, "Conexão com banco realizada com sucesso");
-                
-               
-
-
-              
-
 
         }
 

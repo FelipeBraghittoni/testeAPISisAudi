@@ -38,7 +38,7 @@ namespace TesteDiretrizesDAPI.Dao
                                 var dir = new DirDoctosDir();
                                 dir.idDiretriz = Convert.ToDecimal(reader["idDiretriz"]);
                                 dir.nomeDiretriz = reader["nomeDiretriz"].ToString();
-                                dir.tpDoctoDiretriz = Convert.ToInt16(reader["tpDoctoDiretriz"]);
+                                //dir.tpDoctoDiretriz = Convert.ToInt16(reader["tpDoctoDiretriz"]);
                                 dir.dtRegistro = Convert.ToDateTime(reader["dtRegistro"]);
                                 dir.dtFim = Convert.ToDateTime(reader["dtFim"]);
                                 dir.txtDocto = reader["txtDocto"].ToString();

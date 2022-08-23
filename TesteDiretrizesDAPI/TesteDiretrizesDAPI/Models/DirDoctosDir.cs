@@ -10,7 +10,7 @@ namespace TesteDiretrizesDAPI.Models
 
         public string nomeDiretriz { get; set; }
 
-        public short tpDoctoDiretriz { get; set; }
+        public string tpDoctoDiretriz { get; set; }
 
         public DateTime dtRegistro { get; set; }
         public DateTime dtFim { get; set; }
@@ -29,12 +29,14 @@ namespace TesteDiretrizesDAPI.Models
 
         public string tipodocto2 { get; set; }
 
-        public short idEmpresa { get; set; }
+        public int idEmpresa { get; set; }
 
-        public short idDepto { get; set; }
-        public short idProjeto { get; set; }
-        public short tpDiretriz { get; set; }
+        public int idDepto { get; set; }
+        public int idProjeto { get; set; }
+        public int tpDiretriz { get; set; }
         //public string upsize_ts { get; set; }
+
+        public int busca { get; set; }
 
        
     }
