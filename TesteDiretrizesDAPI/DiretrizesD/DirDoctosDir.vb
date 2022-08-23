@@ -156,6 +156,7 @@ Public Class DirDoctosDir
             mvartpDiretriz = value
         End Set
     End Property
+
     Public Function dbConecta(abreDB As Integer, tipo As Integer, Optional vSelec As String = "") As Integer
         '* ****************************************
         '* * abreDB = se abre ou não o DB:        *
@@ -180,9 +181,14 @@ Public Class DirDoctosDir
             Db = New ADODB.Connection
             Dim cdSeguranca1 As SegurancaD.cdSeguranca1
             cdSeguranca1 = New SegurancaD.cdSeguranca1
-            strConnect = cdSeguranca1.LeDADOSsys(1)
-            'MsgBox(System.AppDomain.CurrentDomain.BaseDirectory())
-            'MsgBox(strConnect)
+            'strConnect = cdSeguranca1.LeDADOSsys(1)
+
+            'strConnect = "Provider = SQLOLEDB;Data Source=192.168.1.119,1433\sqlexpress;Initial Catalog=Auditeste;User Id=sa;Password=sisaudi@2022;"
+
+            'strConnect = "Provider = SQLOLEDB;Data Source=DESKTOP-HV9333S;Initial Catalog=Auditeste;Integrated Security=True"
+
+            strConnect = "Provider = SQLOLEDB;Data Source=DESKTOP-HV9333S;Initial Catalog=Auditeste;User ID=felipe.rozzi2;Password=Felipe1999#"
+
             'strConnect = "driver={SQL Server};server=localhost\SQLEXPRESS;database=auditeste;uid=sa;pwd=auditeste"
             'strConnect = "driver={SQL Server};server=localhost\SQLEXPRESS;database=auditeste;uid=sa;pwd=audi952637" 'locahost Zé Antonio
             'strConnect = "Provider=SQLOLEDB;Data Source=AudiTeste051,1433\sqlexpress;Initial Catalog=Auditeste;User Id=sa;Password=audi952637;" 'Zé Antonio mesmo acima para VM
@@ -271,9 +277,13 @@ EdbConecta:
             idDepto = tDirDoctosDir.Fields("idDepto").Value
             idProjeto = tDirDoctosDir.Fields("idProjeto").Value
             tpDiretriz = tDirDoctosDir.Fields("tpDiretriz").Value
+
+
         Else
             leSeq = 1016
         End If
+
+
 
 EleSeq:
         If Err.Number Then
@@ -282,6 +292,8 @@ EleSeq:
         End If
 
     End Function
+
+
 
     Public Function localiza(diretriz As Double, atualiz As Integer) As Integer
         '* ****************************************
@@ -337,7 +349,7 @@ EleSeq:
         End If
 Elocaliza:
         If Err.Number Then
-            If Err.Number = 3705 Then
+            If (Err.Number = 3705) Or (Err.Number = 5) Then
                 tDirDoctosDir.Close()
                 tDirDoctosDir.Open(vSelect, Db, ADODB.CursorTypeEnum.adOpenDynamic)
                 Resume Next
