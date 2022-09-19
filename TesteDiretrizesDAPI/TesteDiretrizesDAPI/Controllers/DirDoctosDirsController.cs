@@ -53,7 +53,7 @@ namespace TesteDiretrizesDAPI.Controllers
                     diretrizes.nomeDiretriz = dir.nomeDiretriz;
                     diretrizes.tipodocto1 = dir.tipodocto1;
                     diretrizes.tipodocto2 = dir.tipodocto2;
-                    diretrizes.dtRegistro = dir.dtRegistro.ToLocalTime();
+                    diretrizes.dtRegistro = dir.dtRegistro;
                     diretrizes.dtFim = dir.dtFim;
                     diretrizes.tpDoctoDiretriz = dir.tpDoctoDiretriz;
                     diretrizes.nomeDocto1 = dir.nomeDocto1;

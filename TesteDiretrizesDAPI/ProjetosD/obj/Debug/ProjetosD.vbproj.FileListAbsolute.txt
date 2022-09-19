@@ -1,0 +1,56 @@
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\teste.dll
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\teste.pdb
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\teste.xml
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\GeraisD.dll
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\SegurancaD.dll
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\GeraisD.pdb
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\GeraisD.xml
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\SegurancaD.pdb
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\SegurancaD.xml
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.vbproj.AssemblyReference.cache
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\teste.Resources.resources
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.vbproj.GenerateResource.cache
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.vbproj.CoreCompileInputs.cache
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.vbproj.CopyComplete
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\teste.dll
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\teste.xml
+C:\Users\Auditeste0348\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\teste.pdb
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\ProjetosD.dll
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\ProjetosD.pdb
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\ProjetosD.xml
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\ProjetosD.tlb
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\GeraisD.dll
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\SegurancaD.dll
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\GeraisD.pdb
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\GeraisD.xml
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\SegurancaD.pdb
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\bin\Debug\SegurancaD.xml
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.vbproj.AssemblyReference.cache
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.Resources.resources
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.vbproj.GenerateResource.cache
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.vbproj.CoreCompileInputs.cache
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.vbproj.CopyComplete
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.dll
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.xml
+C:\Users\SRV-SISAUDI HML\Documents\GitHub\SisAudi\ProjetosD\obj\Debug\ProjetosD.pdb
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\ProjetosD.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\ProjetosD.pdb
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\ProjetosD.xml
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\ProjetosD.tlb
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\GeraisD.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\SegurancaD.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\Utilidades.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\GeraisD.pdb
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\GeraisD.xml
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\SegurancaD.pdb
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\SegurancaD.xml
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\Utilidades.pdb
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\bin\Debug\Utilidades.xml
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\obj\Debug\ProjetosD.vbproj.AssemblyReference.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\obj\Debug\ProjetosD.Resources.resources
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\obj\Debug\ProjetosD.vbproj.GenerateResource.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\obj\Debug\ProjetosD.vbproj.CoreCompileInputs.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\obj\Debug\ProjetosD.vbproj.CopyComplete
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\obj\Debug\ProjetosD.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\obj\Debug\ProjetosD.xml
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\ProjetosD\obj\Debug\ProjetosD.pdb

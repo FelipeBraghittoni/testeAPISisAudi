@@ -71,7 +71,10 @@ Public Class DirTpDiretriz
             Db = New ADODB.Connection
             Dim cdSeguranca1 As SegurancaD.cdSeguranca1
             cdSeguranca1 = New SegurancaD.cdSeguranca1
-            strConnect = cdSeguranca1.LeDADOSsys(1)
+            'strConnect = cdSeguranca1.LeDADOSsys(1)
+
+            strConnect = "Provider = SQLOLEDB;Data Source=DESKTOP-HV9333S;Initial Catalog=Auditeste;User ID=felipe.rozzi2;Password=Felipe1999#"
+
             'MsgBox(System.AppDomain.CurrentDomain.BaseDirectory())
             'MsgBox(strConnect)
             'strConnect = "driver={SQL Server};server=localhost\SQLEXPRESS;database=auditeste;uid=sa;pwd=auditeste"

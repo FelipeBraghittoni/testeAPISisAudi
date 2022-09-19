@@ -115,7 +115,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SisAudi\SegurancaD\SegurancaD.vbproj">
+    <ProjectReference Include="..\SegurancaD\SegurancaD.vbproj">
       <Project>{b386587a-e73e-4635-b429-5b653b7c79b6}</Project>
       <Name>SegurancaD</Name>
     </ProjectReference>

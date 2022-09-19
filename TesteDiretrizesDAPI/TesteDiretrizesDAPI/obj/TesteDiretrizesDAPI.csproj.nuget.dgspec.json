@@ -1,28 +1,9 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj": {}
+    "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Auditeste0348\\Documents\\GitHub\\SisAudi\\SegurancaD\\SegurancaD.vbproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\SisAudi\\SegurancaD\\SegurancaD.vbproj",
-        "projectName": "SegurancaD",
-        "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\SisAudi\\SegurancaD\\SegurancaD.vbproj",
-        "frameworks": {
-          "net452": {
-            "projectReferences": {
-              "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj": {
-                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net452": {}
-      }
-    },
     "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\DiretrizesD\\DiretrizesD.vbproj": {
       "restore": {
         "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\DiretrizesD\\DiretrizesD.vbproj",
@@ -31,8 +12,8 @@
         "frameworks": {
           "net452": {
             "projectReferences": {
-              "C:\\Users\\Auditeste0348\\Documents\\GitHub\\SisAudi\\SegurancaD\\SegurancaD.vbproj": {
-                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\SisAudi\\SegurancaD\\SegurancaD.vbproj"
+              "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\SegurancaD\\SegurancaD.vbproj": {
+                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\SegurancaD\\SegurancaD.vbproj"
               }
             }
           }
@@ -42,14 +23,52 @@
         "net452": {}
       }
     },
-    "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj": {
+    "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\EmpresasD\\EmpresasD.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\EmpresasD\\EmpresasD.vbproj",
+        "projectName": "EmpresasD",
+        "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\EmpresasD\\EmpresasD.vbproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\SegurancaD\\SegurancaD.vbproj": {
+                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\SegurancaD\\SegurancaD.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\SegurancaD\\SegurancaD.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\SegurancaD\\SegurancaD.vbproj",
+        "projectName": "SegurancaD",
+        "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\SegurancaD\\SegurancaD.vbproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {
+              "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj": {
+                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj",
         "projectName": "TesteDiretrizesDAPI",
-        "projectPath": "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj",
+        "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj",
         "packagesPath": "C:\\Users\\Auditeste0348\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\obj\\",
+        "outputPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Auditeste0348\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,14 +85,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Auditeste0348\\Documents\\GitHub\\SisAudi\\SegurancaD\\SegurancaD.vbproj": {
-                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\SisAudi\\SegurancaD\\SegurancaD.vbproj"
-              },
               "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\DiretrizesD\\DiretrizesD.vbproj": {
                 "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\DiretrizesD\\DiretrizesD.vbproj"
               },
-              "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj": {
-                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj"
+              "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\EmpresasD\\EmpresasD.vbproj": {
+                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\EmpresasD\\EmpresasD.vbproj"
+              },
+              "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\SegurancaD\\SegurancaD.vbproj": {
+                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\SegurancaD\\SegurancaD.vbproj"
+              },
+              "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj": {
+                "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj"
               }
             }
           }
@@ -141,11 +163,11 @@
         }
       }
     },
-    "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj": {
+    "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj",
+        "projectUniqueName": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj",
         "projectName": "Utilidades",
-        "projectPath": "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj",
+        "projectPath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\Utilidades\\Utilidades.vbproj",
         "frameworks": {
           "net452": {
             "projectReferences": {}

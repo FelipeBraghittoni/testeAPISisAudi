@@ -137,12 +137,12 @@ Public Class DirDoctosDir
         End Set
     End Property
 
-    Private mvaridProjeto As Integer
-    Public Property idProjeto() As Integer
+    Private mvaridProjeto As Double
+    Public Property idProjeto() As Double
         Get
             Return mvaridProjeto
         End Get
-        Set(ByVal value As Integer)
+        Set(ByVal value As Double)
             mvaridProjeto = value
         End Set
     End Property

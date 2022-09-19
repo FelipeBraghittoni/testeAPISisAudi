@@ -1,0 +1,6 @@
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\EmpresasD\obj\Debug\EmpresasD.vbproj.AssemblyReference.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\EmpresasD\obj\Debug\Interop.ADODB.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\EmpresasD\obj\Debug\EmpresasD.vbproj.ResolveComReference.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\EmpresasD\obj\Debug\teste.Resources.resources
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\EmpresasD\obj\Debug\EmpresasD.vbproj.GenerateResource.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\EmpresasD\obj\Debug\EmpresasD.vbproj.CoreCompileInputs.cache

@@ -273,3 +273,12 @@ C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteDiretrizesDAPI\o
 C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.pdb
 C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.genruntimeconfig.cache
 C:\Users\Auditeste0348\Documents\teste\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\ref\TesteDiretrizesDAPI.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.csproj.AssemblyReference.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.AssemblyInfoInputs.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.AssemblyInfo.cs
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.csproj.CoreCompileInputs.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\refint\TesteDiretrizesDAPI.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\TesteDiretrizesDAPI\obj\Debug\net6.0\TesteDiretrizesDAPI.pdb

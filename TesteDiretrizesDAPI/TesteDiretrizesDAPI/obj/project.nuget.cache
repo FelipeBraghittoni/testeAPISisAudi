@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h+PeqfSRgKw2CLBxr206GPMCkJ1gfC2yquI/vsDRR1s+0EAde2hWHnDP//HlpHEPedTP7DI1VN4E50i1bP+aWA==",
+  "dgSpecHash": "7vkSTuuWj162ZzbRIaVJG+33xEz4eBYbjYNcB1cY0w7nrvhw85/O6yk4LPyO9XRldvxqGDaFEUKeNIDb9XrUVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Auditeste0348\\Documents\\teste\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj",
+  "projectFilePath": "C:\\Users\\Auditeste0348\\Documents\\GitHub\\testeAPISisAudi\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI\\TesteDiretrizesDAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Auditeste0348\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Auditeste0348\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

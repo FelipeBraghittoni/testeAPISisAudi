@@ -122,7 +122,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\teste\TesteDiretrizesDAPI\Utilidades\Utilidades.vbproj">
+    <ProjectReference Include="..\Utilidades\Utilidades.vbproj">
       <Project>{e9e97590-ce90-4af9-ad68-09e04a0ca96f}</Project>
       <Name>Utilidades</Name>
     </ProjectReference>

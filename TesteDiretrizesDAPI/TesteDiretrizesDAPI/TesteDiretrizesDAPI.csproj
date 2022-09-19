@@ -20,8 +20,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\GitHub\SisAudi\SegurancaD\SegurancaD.vbproj" />
-    <ProjectReference Include="..\..\..\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\DiretrizesD\DiretrizesD.vbproj" />
+    <ProjectReference Include="..\DiretrizesD\DiretrizesD.vbproj" />
+    <ProjectReference Include="..\EmpresasD\EmpresasD.vbproj" />
+    <ProjectReference Include="..\SegurancaD\SegurancaD.vbproj" />
     <ProjectReference Include="..\Utilidades\Utilidades.vbproj" />
   </ItemGroup>
 

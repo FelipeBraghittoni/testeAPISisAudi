@@ -14,3 +14,10 @@ C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Debug\SegurancaD.
 C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Debug\SegurancaD.dll
 C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Debug\SegurancaD.xml
 C:\Users\Auditeste0348\Documents\GitHub\SisAudi\SegurancaD\obj\Debug\SegurancaD.pdb
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\SegurancaD\obj\Debug\SegurancaD.vbproj.AssemblyReference.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\SegurancaD\obj\Debug\SegurancaD.Resources.resources
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\SegurancaD\obj\Debug\SegurancaD.vbproj.GenerateResource.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\SegurancaD\obj\Debug\SegurancaD.vbproj.CoreCompileInputs.cache
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\SegurancaD\obj\Debug\SegurancaD.dll
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\SegurancaD\obj\Debug\SegurancaD.xml
+C:\Users\Auditeste0348\Documents\GitHub\testeAPISisAudi\TesteDiretrizesDAPI\SegurancaD\obj\Debug\SegurancaD.pdb
